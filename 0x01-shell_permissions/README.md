@@ -26,3 +26,7 @@ This file executes a script that adds execution permission to the owner, the gro
 
 ### [8-James_Bond] (8-James_Bond)
 This file executes a script that sets the permission to the file hello
+
+### [9-John_Doe] (9-John_Doe)
+This file executes a script that sets the mode of the file hello to this
+
