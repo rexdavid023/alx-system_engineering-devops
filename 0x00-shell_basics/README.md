@@ -17,3 +17,6 @@ This file executes a script that that display current directory contents, includ
 
 ### [5-listfilesdigitonly] (5-listfilesdigitonly)
 This file executes a script that Display current directory contents in Long format, with user and group IDs displayed numerically, and hidden files (starting with .)
+
+### [6-firstdirectory] (6-firstdirectory)
+This file executes a script that creates a directory named my_first_directory in the /tmp/ directory.
