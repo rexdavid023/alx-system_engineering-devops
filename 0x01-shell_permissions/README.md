@@ -21,5 +21,8 @@ This file executes a script that adds execute permission to the owner of the fil
 ### [6-multiple_permissions] (6-multiple_permissions)
 This file executes a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 
-### [] () 
-This file executes
+### [7-everybody] (7-everybody) 
+This file executes a script that adds execution permission to the owner, the group owner and the other users, to the file hello
+
+### [8-James_Bond] (8-James_Bond)
+This file executes a script that sets the permission to the file hello
