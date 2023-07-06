@@ -32,3 +32,7 @@ This file executes a script that sets the mode of the file hello to this
 
 ### [10-mirror_permissions] (10-mirro_permissions)
 This file executes a script that sets mode of hello to olleh
+
+### [11-directories_permissions] (11-directories_permissions)
+This file execute a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+
