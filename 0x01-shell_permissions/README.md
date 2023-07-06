@@ -11,3 +11,6 @@ This file executes  a script that prints all the groups the current user is part
 
 ### [3-new_owner] (3-new_owner)
 This file executes a script that changes the owner of the file hello to the user betty.
+
+### [4-empty] (4-empty)
+This file executes a script that creates an empty file called hello.
