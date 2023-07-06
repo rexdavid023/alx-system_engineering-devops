@@ -13,4 +13,7 @@ This file executes a script that changes the working directory to the user’s h
 This file executes a script that display current directory contents in a long format.
 
 ### [4-listmorefiles] (4-listmorefiles)
-This file executes a script that that display current directory contents, including hidden files (starting with '.')
+This file executes a script that that display current directory contents, including hidden files (starting with .). Use the long format.
+
+### [5-listfilesdigitonly] (5-listfilesdigitonly)
+This file executes a script that Display current directory contents in Long format, with user and group IDs displayed numerically, and hidden files (starting with .)
