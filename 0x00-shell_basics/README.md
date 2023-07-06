@@ -23,3 +23,6 @@ This file executes a script that creates a directory named my_first_directory in
 
 ### [7-movethatfile] (7-movethatfile)
 This file executes a script that Move the file betty from /tmp/ to /tmp/my_first_directory.
+
+### [8-firstdelete] (8-firstdelete)
+This file executes a script that deletes the file betty
