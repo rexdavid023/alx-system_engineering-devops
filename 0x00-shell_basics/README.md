@@ -29,3 +29,6 @@ This file executes a script that deletes the file betty
 
 ### [9-firstdirdeletioin] (9-firstdirdeletion)
 This file executes a script that deleted the directory 'my_first_directory'.
+
+### [10-back] (10-back)
+This file executes a script that changes the working directory to the previous one.
