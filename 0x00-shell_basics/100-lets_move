@@ -1,2 +1,2 @@
-#1/bin/bssh
+#!/bin/bssh
 mv [[:upper:]]* /tmp/u
