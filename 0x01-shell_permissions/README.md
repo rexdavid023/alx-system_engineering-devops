@@ -30,3 +30,5 @@ This file executes a script that sets the permission to the file hello
 ### [9-John_Doe] (9-John_Doe)
 This file executes a script that sets the mode of the file hello to this
 
+### [10-mirror_permissions] (10-mirro_permissions)
+This file executes a script that sets mode of hello to olleh
